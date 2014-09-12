@@ -1,0 +1,1 @@
+modulex.config("requires",{"event-base":["modulex-util"]});
