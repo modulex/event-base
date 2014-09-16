@@ -35,6 +35,6 @@
         "lint": "gulp lint"
     },
     "dependencies": {
-        "modulex-util": "^1.1.0"
+        "modulex-util": "*"
     }
 }
