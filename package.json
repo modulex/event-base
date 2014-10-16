@@ -1,6 +1,6 @@
 {
     "name": "modulex-event-base",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "yiminghe <yiminghe@gmail.com>",
     "engines": {
         "node": ">=0.10"
@@ -26,12 +26,14 @@
         "gulp-util": "^3.0.0",
         "jshint": "^2.5.5",
         "jshint-stylish": "^0.4.0",
+        "gulp-wrapper": "^0.1.5",
         "precommit-hook": "^1.0.7"
     },
     "precommit": [
         "lint"
     ],
     "scripts": {
+    "publish": "gulp tag",
         "lint": "gulp lint"
     },
     "dependencies": {
