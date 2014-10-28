@@ -7,8 +7,10 @@
     "url": "http://github.com/kissyteam/event-base.git"
   },
   "dependencies": {
-    "modulex": "*",
-    "util": "modulex-util#1.x"
+    "modulex-util": "1.x"
+  },
+  "devDependencies": {
+    "modulex": "*"
   },
   "ignore": [
     "**/*",
