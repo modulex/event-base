@@ -1,22 +1,10 @@
 {
   "name": "modulex-event-base",
   "author": "yiminghe <yiminghe@gmail.com>",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/kissyteam/event-base.git"
-  },
   "dependencies": {
-    "modulex-util": "1.x"
+    "modulex-util": "modulex/util#1.x"
   },
   "devDependencies": {
     "modulex": "*"
-  },
-  "ignore": [
-    "**/*",
-    "!build/**/*",
-    "!lib/**/*",
-    "!meta/**/*",
-    "!index.js"
-  ]
+  }
 }

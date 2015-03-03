@@ -1,6 +1,6 @@
 {
     "name": "modulex-event-base",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "author": "yiminghe <yiminghe@gmail.com>",
     "engines": {
         "node": ">=0.10"
@@ -8,7 +8,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "http://github.com/kissyteam/event-base.git"
+        "url": "http://github.com/modulex/event-base.git"
     },
     "devDependencies": {
         "gulp": "^3.8.7",
